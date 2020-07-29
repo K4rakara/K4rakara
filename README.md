@@ -1,6 +1,6 @@
 ## ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Heya!
 
-I'm a highschool student from America aiming to eventually land a job in computer science. Over the past 5 years, I've been self teching myself several programming languages and building software.
+I'm a highschool student from the USA aiming to eventually land a job in computer science. Over the past 5 years, I've been teaching myself several programming languages and building software.
 
 - 🔭 Current projects:
 	- [Kuudere](), a JavaScript framework.
