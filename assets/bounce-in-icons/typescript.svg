@@ -1,0 +1,41 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1"
+	width="48"
+	height="48"
+	viewBox="0 0 48 48">
+	<style>
+		#icon {
+			x: 12px;
+			y: 12px;
+			width: 50%;
+			height: 50%;
+			position: fixed;
+			transform: translate(0, 24px);
+			animation-name: bounce-in;
+			animation-duration: .5s;
+			animation-timing-function: ease-out;
+			animation-fill-mode: forwards;
+			animation-delay: .5s;
+			object-fit: contain;
+			opacity: 0;
+		}
+
+		@keyframes bounce-in {
+			0% {
+				transform: translate(0px, 24px);
+				opacity: 0;
+			}
+			50% {
+				transform: translate(0px, -12px);
+				opacity: 1;
+			}
+			100% {
+				transform: translate(0px, 0px);
+				opacity: 1;
+			}
+		}
+	</style>
+	<image id="icon" href="https://cloud.githubusercontent.com/assets/10656223/15247118/e71dc6a2-1909-11e6-9b90-ae86204f41c3.png"/>
+</svg>
