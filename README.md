@@ -1,4 +1,4 @@
-### Hi there 👋
+# ![Waving hand](./assets/wave.svg) Heya!
 
 <!--
 **K4rakara/K4rakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
