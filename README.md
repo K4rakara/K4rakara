@@ -1,4 +1,4 @@
-# ![Waving hand](./assets/wave.svg) Heya!
+# ![Waving hand](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Heya!
 
 <!--
 **K4rakara/K4rakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
