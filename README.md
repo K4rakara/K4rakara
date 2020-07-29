@@ -3,8 +3,8 @@
 I'm a highschool student from the USA aiming to eventually land a job in computer science. Over the past 5 years, I've been teaching myself several programming languages and building software.
 
 - 🔭 Current projects:
-	- [Kuudere](), a JavaScript framework.
-	- [R#](), a native desktop application for Reddit.
+	- [Kuudere](https://github.com/K4rakara/kuudere) - a JavaScript framework.
+	- [R#](https://github.com/K4rakara/r-sharp) - a native desktop application for Reddit.
 	- Ricing my Linux desktop.
 - 📫 How to reach me:
 	- Via email: ﻿jackj106﻿games﻿official﻿@﻿gmail.com﻿ <small>( I still need to fix my mailserver for ﻿jack﻿@insertdomain.name﻿ :sweat_smile: )</small>
