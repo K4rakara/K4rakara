@@ -1,0 +1,85 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.1"
+	width="48"
+	height="48"
+	viewBox="0 0 48 48">
+	<g id="icon">
+	  <svg
+	     x="6px"
+       width="75%"
+       version="1.1"
+       viewBox="0 0 105 49.091"
+       id="svg778"
+       sodipodi:docname="systemd logo.svg"
+       inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+       xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+       xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:svg="http://www.w3.org/2000/svg"
+       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:cc="http://creativecommons.org/ns#"
+       xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <defs
+         id="defs782" />
+      <sodipodi:namedview
+         id="namedview780"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:showpageshadow="2"
+         inkscape:pageopacity="0.0"
+         inkscape:pagecheckerboard="0"
+         inkscape:deskcolor="#d1d1d1"
+         showgrid="false"
+         inkscape:zoom="6.6402064"
+         inkscape:cx="77.859025"
+         inkscape:cy="31.625523"
+         inkscape:current-layer="g774" />
+      <title
+         id="title746">systemd logo</title>
+      <metadata
+         id="metadata748">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>systemd logo</dc:title>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <g
+         transform="translate(-60,-1082.52)"
+         id="g776">
+        <g
+           transform="matrix(2.00001,0,0,2.00001,-4358.02,-5676.01)"
+           style="stroke-width:0.499998"
+           id="g774">
+          <path
+             d="m 2213.65,3385.02 v 13 h 5 v -2 h -3 v -9 h 3 v -2 z"
+             style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+             id="path750" />
+          <path
+             d="m 2251.65,3385.02 v 2 h 3 v 9 h -3 v 2 h 5 v -13 z"
+             style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+             id="path752" />
+          <g
+             id="g768" />
+          <path
+             d="m 2237.65,3391.52 8,-4.5 v 9 z"
+             style="fill:#33d17a"
+             id="path770" />
+          <circle
+             cx="2229.1499"
+             cy="3391.52"
+             r="4.49998"
+             style="fill:#33d17a"
+             id="circle772" />
+        </g>
+      </g>
+    </svg>
+	</g>
+</svg>
