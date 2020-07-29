@@ -37,5 +37,5 @@
 			}
 		}
 	</style>
-	<image id="icon" href="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg"/>
+	<image id="icon" href="./bash_logo.svg"/>
 </svg>
