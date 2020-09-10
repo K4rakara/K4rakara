@@ -4,7 +4,8 @@ I'm a highschool student from the USA aiming to eventually land a job in compute
 
 - 🔭 Current projects:
 	- [Kuudere](https://github.com/K4rakara/kuudere) - a JavaScript framework.
-	- [R#](https://github.com/K4rakara/r-sharp) - a native desktop application for Reddit.
+	- [Freshfetch](https://github.com/K4rakara/freshfetch) - a fresh take on neofetch.
+	- [R#](https://github.com/K4rakara/r-sharp) - a native desktop application for Reddit. (On hold)
 	- Ricing my Linux desktop.
 - 📫 How to reach me: [@lost_eth0](https://twitter.com/lost_eth0) on Twitter.
 - 😄 Pronouns: He, Him
