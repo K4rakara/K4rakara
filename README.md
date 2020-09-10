@@ -6,10 +6,7 @@ I'm a highschool student from the USA aiming to eventually land a job in compute
 	- [Kuudere](https://github.com/K4rakara/kuudere) - a JavaScript framework.
 	- [R#](https://github.com/K4rakara/r-sharp) - a native desktop application for Reddit.
 	- Ricing my Linux desktop.
-- 📫 How to reach me:
-	- Via email: ﻿jackj106﻿games﻿official﻿@﻿gmail.com﻿ <small>( I still need to fix my mailserver for ﻿jack﻿@insertdomain.name﻿ :sweat_smile: )</small>
-	- Via Twitter: [@lost_eth0](https://twitter.com/lost_eth0)
-	- Via Discord: karakara#5868 <small>( Join either the Rust or TypeScript Discord server and you should be able to message me )</small>
+- 📫 How to reach me: [@lost_eth0](https://twitter.com/lost_eth0) on Twitter.
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I use ![arch](https://www.archlinux.org/logos/archlinux-icon-crystal-16.svg) btw.
 
