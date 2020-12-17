@@ -25,7 +25,6 @@ I'm a highschool student from the USA aiming to eventually land a job in compute
 
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">![C#](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/cs.svg)</a>
 <a href="https://www.python.org/">![Python](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/python.svg)</a>
-<a href="https://www.ruby-lang.org/en/">![Ruby](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/bounce-in-icons/ruby.svg)</a>
 
 ##### :sparkles: Want to learn:
 
