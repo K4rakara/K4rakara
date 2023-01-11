@@ -1,6 +1,6 @@
 ## ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Hi, my name's Julia!
 
-I'm a college student from the USA aiming to eventually land a job in computer science. Over the past 6 years, I've been teaching myself several programming languages and building software.
+Unfunny linux user. Code gremlin. Container addict. Proficient in numerous languages, with a preference for Rust.
 
 - 😄 She, Her
 - 🤖️ Code gremlin
