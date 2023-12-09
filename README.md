@@ -1,10 +1,18 @@
-## ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Hi, my name's Julia!
+# ![(Waving icon)](https://raw.githubusercontent.com/K4rakara/K4rakara/master/assets/wave.svg) Hi, my name is Julia Johannesen.
 
-Unfunny linux user. Code gremlin. Container addict. Proficient in numerous languages, with a preference for Rust.
+> **IMPORTANT**: I'm not typically active on GitHub, as I have personal qualms with GitHub as a company and Microsofts aquisition of it. You can find my current work on [codeberg](https://codeberg.org/karakara) and [the Firefish GitLab](https://git.joinfirefish.org/karakara).
 
-- 😄 She, Her
-- 🤖️ Code gremlin
-- 🛠️ Working on apps for GNOME
+### Who am I?
+
+I'm a Software Engineer with years of experience in a myriad of technologies, from backend to frontend and everywhere in-between.
+
+I learn exceptionally fast and can adapt to any stack that gets thrown my way.
+
+### What do I do?
+
+Right now, I'm working on a project called [libmfm](https://git.joinfirefish.org/firefish/libmfm). It's a library for parsing the flavor of markdown used by [Misskey](https://misskey-hub.net/) and [Firefish](https://joinfirefish.org/), which are both Activity-Pub powered microblogging platforms. Eventually the goal is to also provide rendering in addition to parsing.
+
+Additionally, I run my own instance of Firefish at [eepy.moe](https://eepy.moe), and self-host services for me and close friends on [insertdomain.name](https://insertdomain.name).
 
 ### My Skills
 
